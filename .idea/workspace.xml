@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="43053c27-ba3a-41a2-8dcc-b203a7141c62" name="Default Changelist" comment="" />
+    <list default="true" id="43053c27-ba3a-41a2-8dcc-b203a7141c62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/腾讯精选练习/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/腾讯精选练习/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/腾讯精选练习/Validparentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/腾讯精选练习/Validparentheses.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RSzNCL4KaM47qG0XJnEaS6prHK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -43,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Validparentheses">
+  <component name="RunManager" selected="Application.RemoveDuplicatesFromSortedArray">
     <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="腾讯精选练习.ContainerWithMostWater" />
       <module name="leetcode" />
@@ -70,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalinDromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="腾讯精选练习.PalinDromeNumber" />
+    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="腾讯精选练习.MergeTwoSortedLists" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="腾讯精选练习.ReverseInteger" />
+    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="腾讯精选练习.RemoveDuplicatesFromSortedArray" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+        <item itemvalue="Application.MergeTwoSortedLists" />
         <item itemvalue="Application.Validparentheses" />
         <item itemvalue="Application.LongestCommonPrefix" />
         <item itemvalue="Application.ContainerWithMostWater" />
-        <item itemvalue="Application.PalinDromeNumber" />
-        <item itemvalue="Application.ReverseInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -133,12 +145,27 @@
       <workItem from="1569719949006" duration="4191000" />
       <workItem from="1569764468832" duration="2983000" />
       <workItem from="1569821944376" duration="232000" />
-      <workItem from="1570185736514" duration="6440000" />
+      <workItem from="1570185736514" duration="6815000" />
+      <workItem from="1570538769234" duration="186000" />
+      <workItem from="1570582830738" duration="5015000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -167,6 +194,22 @@
           </properties>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/腾讯精选练习/MergeTwoSortedLists.java</url>
+          <line>21</line>
+          <properties class="腾讯精选练习.MergeTwoSortedLists" method="mergeTwoLists">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/腾讯精选练习/RemoveDuplicatesFromSortedArray.java</url>
+          <line>21</line>
+          <properties class="腾讯精选练习.RemoveDuplicatesFromSortedArray" method="removeDuplicates">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/腾讯精选练习/ReverseInteger.java</url>
           <line>45</line>
@@ -182,7 +225,22 @@
           <line>76</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/腾讯精选练习/MergeTwoSortedLists.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/腾讯精选练习/RemoveDuplicatesFromSortedArray.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$MergeTwoSortedLists.ic" NAME="MergeTwoSortedLists Coverage Results" MODIFIED="1570584557353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>腾讯精选练习.*</FILTER>
+    </SUITE>
   </component>
 </project>
